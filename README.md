@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo_UTNG.png" alt="Logo UTNG" width="250"/>
+  <img src="img/logo_UTNG.png" alt="Logo UTNG" width="550"/>
 </div>
 
 # Instrumento de Evaluación Actividad 1
@@ -29,8 +29,8 @@
     - [Git](#2-git)
     - [Docker Engine](#3-docker-engine)
   - [Evidencia de pruebas](#evidencia-de-pruebas-de-verificación)
-    - [Hello World en Docker](#hello-world--verificación-de-docker-engine)
-    - [Archivo YML con contenedores](#archivo-yml--verificación-de-docker-compose)
+    - [Hello World / Verificación de Docker Engine](#hello-world--verificación-de-docker-engine)
+    - [Archivo YML / Verificación de Docker Compose](#archivo-yml--verificación-de-docker-compose)
 - [Conclusión](#conclusión)
 - [Bibliografía](#bibliografía)
 
@@ -296,7 +296,7 @@ nano /etc/docker/daemon.json
 
 ### Evidencia de pruebas de verificación
 
-#### Hello World. Verificación de Docker Engine
+#### Hello World / Verificación de Docker Engine
 
 Se ejecutó la imagen `hello-world` para confirmar que Docker Engine funciona de extremo a extremo.
 
@@ -308,7 +308,7 @@ docker run hello-world
 
 ---
 
-#### Archivo YML. Verificación de Docker Compose
+#### Archivo YML / Verificación de Docker Compose
 
 Se creó un stack con dos servicios: Nginx como servidor web y Swagger UI para documentación de API. Se definieron en un solo archivo y se levantaron con un comando.
 
