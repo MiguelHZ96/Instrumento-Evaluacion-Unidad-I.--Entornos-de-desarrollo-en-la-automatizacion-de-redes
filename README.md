@@ -176,7 +176,7 @@ Se descargó el archivo `.deb` desde la página oficial de VS Code en el navegad
 ![Busqueda de VS Code en el navegador](img/Busqueda_VScode.png)
 
 ```bash
-sudo dpkg -i code_1.117.0-1776814346_amd64.deb
+sudo dpkg -i code_1.122.1-1780040850_amd64.deb
 ```
 
 Durante la instalación apareció una pantalla para agregar el repositorio de Microsoft. Se seleccionó "Yes" y la instalación continuó.
@@ -280,7 +280,7 @@ docker --version
 Para evitar que los logs de los contenedores llenen el disco, se configuró el límite de archivos:
 
 ```bash
-nano /etc/docker/daemon.json
+sudo nano /etc/docker/daemon.json
 ```
 
 ```json
