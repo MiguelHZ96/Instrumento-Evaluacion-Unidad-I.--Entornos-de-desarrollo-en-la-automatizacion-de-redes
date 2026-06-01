@@ -13,7 +13,7 @@
 | **Materia :** | Automatización de Infraestructura Digital |
 | **Unidad 1 :** | Herramientas de automatización de redes |
 | **Profesor :** | Eric Domenzain Morales |
-
+| **Fecha:** | 01 de Junio del 2026
 
 ---
 
