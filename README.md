@@ -12,6 +12,7 @@
 | **Carrera:**| Ingeniería en Redes Inteligentes y Ciberseguridad |
 | **Materia :** | Automatización de Infraestructura Digital |
 | **Unidad 1 :** | Herramientas de automatización de redes |
+| **Profesor :** | Eric Domenzain Morales |
 
 
 ---
